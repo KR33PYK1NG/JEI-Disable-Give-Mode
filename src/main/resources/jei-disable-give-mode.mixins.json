@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "jei-disable-give-mode.refmap.json",
+    "package": "rmc.mixins.jei_disable_give_mode.inject",
+    "mixins": [
+        "PacketGiveItemStackMixin"
+    ]
+}
